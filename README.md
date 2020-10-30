@@ -11,7 +11,7 @@
 3. 初始化后登录平台，进入系统设置配置相关信息。
 4. 用户管理平台登录地址： https://user.lib.tju.edu.cn/admin/#/login         （登录界面见图1-1）
 
-<div align="center"><img src="http://l.027cgb.com/633546/%E7%94%A8%E6%88%B7%E5%B9%B3%E5%8F%B0%E6%88%AA%E5%9B%BE/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6lyn.png"></div>
 <p align="center">图 1-1 登录界面</p>
 
 
