@@ -21,7 +21,7 @@
 - 管理员可通过左侧菜单点击用户管理进入用户管理界面，该界面分为两部分，界面左侧为**部门管理和标签管理**，右侧为**用户列表**，管理界面如图1-2所示。
 - 用户管理主要针对用户进行统一管理，具体操作见下方说明。
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/103617_c8e911dd_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6fld.png"></div>
 <p align="center">图1-2 用户管理</p>
 
 ## 用户列表
@@ -41,7 +41,8 @@
 
 - 管理员可通过点击对应用户查看用户详情（见图1-3）。
 - 弹窗底部操作栏可以实现编辑和删除用户，修改用户密码的功能。
-![用户详情](https://images.gitee.com/uploads/images/2020/1030/103906_66987d8e_5213554.png "用户详情.png")
+
+  <div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6h6A.png"></div>
 
 <p align="center">图1-3 用户详情</p>																				
 
@@ -81,7 +82,8 @@
 ## 添加用户
 
  理员可通过用户列表界面右上角点击添加用户进入添加用户信息界面(如图1-4)：
-![添加用户](https://images.gitee.com/uploads/images/2020/1030/104029_d919762f_5213554.png "添加用户.png")
+
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6rex.png"></div>
 
 <p align="center">图1-4 添加用户</p>																									
 
@@ -112,7 +114,7 @@
 
 - 管理员通过点击用户列表界面右上角点击批量添加用户弹出批量添加用户界面（见图1-5）。
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/104051_ff40606c_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6JoT.png"></div>
 <p align="center">图1-5 批量添加用户</p>																									
 
 
@@ -121,7 +123,7 @@
 
 - 导入用户时管理员需要确认导入文件的格式为”.xlsx“为后缀的文件，且文件中用户的学号不可重复，必填信息见”**添加用户**“的必填信息，若管理员没有导入模板，可通过点击”模板下载“按钮下载模板文件（模板内容见图1-6）。
 
-![导入模板](https://images.gitee.com/uploads/images/2020/1030/104116_a822d665_5213554.png "导入模板.png")
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6nJg.png"></div>
 
 <p align="center">图1-6 导入模板</p>																									
 
@@ -167,7 +169,7 @@
 
 注：管理员可通过用户列表右侧”**批量操作**“下拉按钮查看支持的批量操作，通过勾选人员信息前的复选框选择需要修改的用户。（见图1-7）
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/104144_49766cfd_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6GwV.png"></div>
 <p align="center">图1-7 批量操作</p>																			
 
 
@@ -195,9 +197,8 @@
 * **条件组关系：存在多个条件组时，条件组之间的关系。**
 
 * **条件关系：具体搜索时的条件关系。**  
-![高级查询](https://images.gitee.com/uploads/images/2020/1030/104209_2fee4ea3_5213554.png "高级查询.png")
-																											
-  
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6QQs.png"></div>
+	
   <p align="center">图1-8 高级查询</p>
 
 
@@ -249,8 +250,9 @@
 - 通过右上角添加应用按钮可添加应用;
 
 - 搜索栏可通过应用状态，应用类型，应用名称搜索应用 。
-![应用列表](https://images.gitee.com/uploads/images/2020/1030/104252_a2613a89_5213554.png "应用列表.png")
 
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6WSH.png"></div>
+  
   <p align="center"> 图 2-1 应用列表</p>
 
 
@@ -258,7 +260,8 @@
 ## 添加应用
 
 - 管理员通过右上角**”添加应用“**按钮进入添加应用界面（添加应用见图2-2）。
-![添加应用](https://images.gitee.com/uploads/images/2020/1030/104314_4f417985_5213554.png "添加应用.png")
+
+  <div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6BO1.png"></div>
 
 <p align="center">图2-2 添加应用</p>																																	
 
@@ -288,7 +291,7 @@
 
 - 用户通过点击应用列表中应用名称下方的**编辑**按钮进入修改应用界面（见图2-3）。
 
-![修改应用](https://images.gitee.com/uploads/images/2020/1030/104346_8bedd5e9_5213554.png "修改应用.png")
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6cFO.png"></div>
 
 <p align="center">图 2-3 修改应用</p>																																	
 
@@ -325,7 +328,8 @@
   * **权限配置**
 
 管理员通过应用列表界面点击应用名称下方的”权限“按钮进入权限配置界面（应用权限见图2-4）。
-![应用权限](https://images.gitee.com/uploads/images/2020/1030/104416_8e35bfa5_5213554.png "应用权限配置.png")
+
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt62fe.png"></div>
 
 <p align="center">图2-4 应用权限配置</p>																																		
 
@@ -336,7 +340,7 @@
 - 管理员通过应用名称下方删除按钮来删除应用（见图2-5）
 - **注意**： 若应用存在模板相关信息时，无法删除应用，请尝试删除模板后再删除应用。
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/104517_27a085cf_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6UW4.png"></div>
 <p align="center">图2-5 应用删除</p>
 
 
@@ -357,14 +361,14 @@
 
 * 单击模板名即可查看模板详情。
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1029/114601_7e9b2fd2_5213554.png"></div>																												
-  <p align="center">图3-1 消息模板列表</p>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/BtbW9A.png"></div>																									
+ <p align="center">图3-1 消息模板列表</p>
 
 ### 添加模板
 
 - 管理员通过点击消息模板界面”**添加模板**“按钮，进入添加模板界面（添加模板见图3-2）。
 
-  ![添加模板](https://images.gitee.com/uploads/images/2020/1030/104734_9a0bb913_5213554.png "添加模板.png")
+  <div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt60yR.png"></div>	
 
   <p align="center">图 3-2 添加模板</p>
 
@@ -403,7 +407,7 @@
 * 管理员可通过消息**发送日期，发送者名称，消息名称，接收者名称**查找消息记录。
 * 负责展示已发送消息的模板ID，发送者，发送日期，消息内容和接收人的信息。
 
-  ![消息记录](https://images.gitee.com/uploads/images/2020/1030/104759_9f0b4e67_5213554.png "消息记录.png")
+  <div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6yTK.png"></div>	
   
   <p align="center">图3-3 消息记录</p>
 
@@ -453,7 +457,8 @@
 
 ### 接口列表
 
-  ![接口列表](https://images.gitee.com/uploads/images/2020/1030/104829_e81a9d32_5213554.png "接口列表.png")
+  <div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt68e0.png"></div>	
+
 <p align="center">图4-1 接口列表</p>
 
 
@@ -471,7 +476,7 @@
 | 接口分组     | 不可修改，接口所属分组，接口分组详情见下方“**接口分组管理**” |
 | 接口认证方式 | 不可修改，接口所属认证方式，认证方式不同，接口权限不同。     |
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/104901_2f1b5b88_5213554.png"></div> 
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6gYD.png"></div> 
 <p align="center">图4-2 修改接口</p>
 
 
@@ -486,7 +491,7 @@
 
 - ​	分组管理支持**修改**、**删除**分组功能，管理员可以在分组管理界面找到分组右侧**“编辑**”，**“删除”**， 点击执行相应操作。
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/104952_3c5292b5_5213554.png"></div> 
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6mFS.png"></div> 
 <p align="center">图4-3 分组列表</p>
 
 
@@ -518,7 +523,8 @@
 
 ### 部门列表
 
-![部门列表](https://images.gitee.com/uploads/images/2020/1030/105057_39a5d1a5_5213554.png "部门列表.png")
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6Kzj.png"></div> 
+
 <p align="center">图4-5 部门列表</p>
 
 
@@ -527,7 +533,7 @@
 
 ​	管理员可在部门管理界面右上角找到”**添加部门**“按钮，点击弹出添加部门界面。（添加部门见图4-6）
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/105119_0f801c1f_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6NYF.png"></div>
 
 <p align="center">图4-6 添加部门</p>
 
@@ -557,14 +563,15 @@
 - 厂商列表展示所有的厂商信息，包括： 厂商名称、联系人、联系电话、联系地址、创建日期
 - 支持添加、修改、删除操作。
 
-![厂商列表](https://images.gitee.com/uploads/images/2020/1030/105159_b83d5476_5213554.png "厂商列表.png")
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6uWQ.png"></div>
+
 <p align="center">图4-7 厂商列表</p>
 
 ### 添加厂商
 
 ​	管理员可以在厂商管理界面右上角找到添加厂商按钮，点击弹出添加厂商界面。（添加厂商见图4-8）
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/105238_a976d229_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6dSJ.png"></div>
 <p align="center">图4-8 添加厂商</p>
 
 **厂商信息：**
@@ -612,7 +619,7 @@
 - ​	管理员列表提供展示所有管理员信息。包括 “用户名”、“真实姓名”、“邮箱”、“手机号”、“上次登录时间”、“角色”、“状态”
 - ​	管理员支持 添加、修改 管理员信息。
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/105314_dbc0a591_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt61Lq.png"></div>
 <p align="center">图4-9 管理员列表</p>
 
 
@@ -650,7 +657,7 @@
 
 - 管理员可以通过点击不同按钮切换到不同的界面。详情见下方说明。
 
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/105508_0607ab2e_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt64OI.png"></div>
 <p align="center">图4-10 字典管理</p>
 
 ### 添加字典信息
@@ -724,8 +731,7 @@
 | 人员编号前缀        | 管理员可在此设置用户编号前缀，默认为空，可设置多个，需用英文逗号分隔。 |
 | 导入用户重置密码URL | 外部导入用户修改密码时的跳转链接（url）                      |
 
-
-<div align="center"><img src="https://images.gitee.com/uploads/images/2020/1030/105604_99b1bf80_5213554.png"></div>
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6sw6.png"></div>
 <p align="center">图4-11 系统设置</p>
 
 ## 日志管理
@@ -738,6 +744,6 @@
 
 - 日志为管理员操作时自动添加，不可修改，不可删除。
 
-![日志管理](https://images.gitee.com/uploads/images/2020/1030/105643_5c5c6c59_5213554.png "日志管理.png")
+<div align="center"><img src="https://s1.ax1x.com/2020/10/30/Bt6tFU.png"></div>
 
   <p align="center">图4-12 日志管理</p>
