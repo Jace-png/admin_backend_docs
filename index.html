@@ -9,14 +9,20 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <nav>
+    <butten><a href="https://user.lib.tju.edu.cn/admin/" target="_blank">统一管理平台</a></butten>
+  </nav>
+  <div id="app">文档加载中...</div>
   <script>
     window.$docsify = {
       name: '用户统一认证平台管理手册',
       maxLevel: 3,
       autoHeader: true,
+      hideOtherSidebarContent: false,
+      depth: 2,
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
